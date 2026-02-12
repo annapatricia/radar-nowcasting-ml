@@ -21,3 +21,17 @@ outputs/figures/future_examples/
 - TN.png
 - FP.png
 - FN.png
+
+## 🖼 Exemplos de Previsão (Nowcasting)
+
+### True Positive (acerto evento intenso)
+![TP](outputs/figures/future_examples/TP.png)
+
+### True Negative (acerto ausência de evento)
+![TN](outputs/figures/future_examples/TN.png)
+
+### False Positive (alarme falso)
+![FP](outputs/figures/future_examples/FP.png)
+
+### False Negative (evento perdido)
+![FN](outputs/figures/future_examples/FN.png)
